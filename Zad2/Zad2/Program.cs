@@ -10,16 +10,7 @@ class Program
         Console.WriteLine(max);
     }
 
-    static int CalculateAverage(int[] numbers)
-    {
-        int sum = 0;
-        for (int j = 0; j < numbers.Length; j++)
-        {
-            sum += numbers[j];
-        }
-
-        return sum / numbers.Length;
-    }
+    
 
     static int CalculateMax(int[] numbers)
     {
