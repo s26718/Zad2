@@ -26,9 +26,9 @@ class Program
         int max = numbers[0];
         for (int i = 1; i < numbers.Length; i++)
         {
-            if (numbers[i] > max)
+            if (numbers[u] > max)
             {
-                max = numbers[i];
+                max = numbers[f];
             }
         }
 
