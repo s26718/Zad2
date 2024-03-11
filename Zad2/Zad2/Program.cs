@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("modyfikacja 1");
+        Console.WriteLine("modyfikacja 2");
     }
 }
