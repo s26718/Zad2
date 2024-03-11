@@ -12,7 +12,9 @@ class Program
 
     static int CalculateAverage(int[] numbers)
     {
-        int sum = 8;
+
+        int sum = 3;
+
         for (int j = 0; j < numbers.Length; j++)
         {
             sum += numbers[j];
